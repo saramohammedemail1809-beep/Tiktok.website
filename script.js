@@ -467,10 +467,10 @@ function createVideoCard(video) {
         img.src = `${video.cover}`;
         img.alt = video.title;
         img.style.cssText = `
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            object-position: center;
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: cover !important;
+            object-position: center !important;
             border-radius: var(--radius-lg);
             display: block;
         `;

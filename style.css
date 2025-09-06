@@ -1388,7 +1388,14 @@ body::before {
     }
     
     .video-cover {
-        height: 450px; /* Taller for mobile to reduce cropping */
+        height: 600px; /* Much taller for mobile to show full images */
         font-size: 1.5rem;
+    }
+}
+
+/* Extra small screens - make covers even taller */
+@media (max-width: 360px) {
+    .video-cover {
+        height: 700px; /* Extra tall for very small screens */
     }
 }

@@ -1398,4 +1398,8 @@ body::before {
     .video-cover {
         height: 700px; /* Extra tall for very small screens */
     }
+    
+    .video-cover img {
+        object-fit: contain !important; /* Show full image on very small screens */
+    }
 }

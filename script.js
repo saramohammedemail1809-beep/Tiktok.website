@@ -469,10 +469,11 @@ function createVideoCard(video) {
         img.style.cssText = `
             width: 100% !important;
             height: 100% !important;
-            object-fit: cover !important;
+            object-fit: contain !important;
             object-position: center !important;
             border-radius: var(--radius-lg);
             display: block;
+            background: var(--card);
         `;
         
         img.onload = function() {

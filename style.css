@@ -1388,18 +1388,24 @@ body::before {
     }
     
     .video-cover {
-        height: 600px; /* Much taller for mobile to show full images */
+        height: 500px; /* Good height for mobile */
         font-size: 1.5rem;
+    }
+    
+    .video-cover img {
+        object-fit: contain !important; /* Show full image on mobile without cropping */
+        background: var(--card); /* Fill empty space with card color */
     }
 }
 
 /* Extra small screens - make covers even taller */
 @media (max-width: 360px) {
     .video-cover {
-        height: 700px; /* Extra tall for very small screens */
+        height: 600px; /* Extra tall for very small screens */
     }
     
     .video-cover img {
         object-fit: contain !important; /* Show full image on very small screens */
+        background: var(--card); /* Fill empty space with card color */
     }
 }

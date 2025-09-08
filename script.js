@@ -11,7 +11,7 @@
 const videoData = [
     {
         title: "3 Universities that give 100% scholarships to international students",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Discover the top 3 American universities that offer complete financial coverage for international students - no tuition fees, no hidden costs!",
         url: "https://vt.tiktok.com/ZSAts9sCF/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.22 PM (1).jpeg",
         emoji: "💰"
@@ -19,7 +19,7 @@ const videoData = [
 
     {
         title: "3 Universities that give 100% scholarships to international students",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Uncover the secret universities that provide full-ride scholarships to international students - your dream education is closer than you think!",
         url: "https://vt.tiktok.com/ZSAtpVnYa/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.22 PM (2).jpeg",
         emoji: "💰"
@@ -27,7 +27,7 @@ const videoData = [
 
     {
         title: "10 Universities that give 100% scholarships to international students",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "The ultimate list of 10 prestigious American universities offering complete financial aid packages - transform your educational dreams into reality!",
         url: "https://vt.tiktok.com/ZSAtsejMx/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM.jpeg",
         emoji: "💎"
@@ -36,7 +36,7 @@ const videoData = [
 
     {
         title: "3 Universities that give 100% scholarships to international students",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Exclusive insider information on 3 hidden gem universities that offer full scholarships - don't miss this golden opportunity!",
         url: "https://vt.tiktok.com/ZSAtGMVt8/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM (1).jpeg",
         emoji: "💰"
@@ -44,7 +44,7 @@ const videoData = [
 
     {
         title: "Do this if you want a full scholarship to study in America",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Step-by-step guide to securing a full scholarship in the USA - follow these proven strategies to make your American dream come true!",
         url: "https://vt.tiktok.com/ZSAtGCp6v/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM (2).jpeg",
         emoji: "🚀"
@@ -52,7 +52,7 @@ const videoData = [
 
     {
         title: "100% scholarship to study in California USA as an international student",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Sunshine, beaches, and FREE education! Discover how to get a full scholarship to study in beautiful California - your golden state opportunity awaits!",
         url: "https://vt.tiktok.com/ZSAtnTuEw/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM (3).jpeg",
         emoji: "☀️"
@@ -60,7 +60,7 @@ const videoData = [
 
 {
     title: "3 steps to get 100% scholarship to study in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Master the 3 essential steps that guarantee your scholarship success in America - simple, actionable, and proven to work!",
     url: "https://vt.tiktok.com/ZSAtnsoNU/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM (4).jpeg",
     emoji: "✅"
@@ -68,7 +68,7 @@ const videoData = [
 
     {
         title: "This is how you can study for FREE in America as an international student",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "The complete blueprint for studying in America without paying a single dollar - learn the insider secrets that changed everything!",
         url: "https://vt.tiktok.com/ZSAtWfhrM/",
         cover: "WhatsApp Image 2025-09-04 at 6.47.23 PM (5).jpeg",
         emoji: "🎉"
@@ -76,7 +76,7 @@ const videoData = [
 
   {
     title: "This college gives international students 100% scholarships to study in USA",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Meet the generous American college that covers 100% of costs for international students - your ticket to a debt-free education!",
     url: "https://vt.tiktok.com/ZSAtWEFgA/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM.jpeg",
     emoji: "💯"
@@ -84,7 +84,7 @@ const videoData = [
 
   {
     title: "Full scholarship to study in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Everything you need to know about securing a complete scholarship package in the USA - from application to acceptance!",
     url: "https://vt.tiktok.com/ZSAt78Atm/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM (1).jpeg",
     emoji: "🎓"
@@ -92,14 +92,14 @@ const videoData = [
 
 {  
  title: "This university gives international students 100% scholarships",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Revealing the prestigious university that offers complete financial support to international students - your academic dreams are within reach!",
     url: "https://vt.tiktok.com/ZSAt7DpVw/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM (2).jpeg",
     emoji: "🏛️"
     },
 {
 title: "5 schools that are tuition free for international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Explore 5 amazing American schools that charge ZERO tuition for international students - quality education without the price tag!",
     url: "https://vt.tiktok.com/ZSAt7Ww7S/",
     cover: "WhatsApp Image 2025-09-05 at 2.50.51 AM (1).jpeg",
     emoji: "🏫"
@@ -107,7 +107,7 @@ title: "5 schools that are tuition free for international students",
 
 {
 title: "10 schools that give 100% scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "The comprehensive list of 10 top-tier schools offering complete scholarship packages - your pathway to American education success!",
     url: "https://vt.tiktok.com/ZSAt7aM2x/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM (3).jpeg",
     emoji: "💎"
@@ -115,7 +115,7 @@ title: "10 schools that give 100% scholarships to international students",
 
 {
 title: "Big scholarships in america for international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Discover the largest and most generous scholarship programs in America - massive funding opportunities waiting for you!",
     url: "https://vt.tiktok.com/ZSAt7uSdp/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM (4).jpeg",
     emoji: "💰"
@@ -123,7 +123,7 @@ title: "Big scholarships in america for international students",
 
 {
 title: "This university will give you a scholarship to study in the Usa if you dont have the money",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "No money? No problem! This university believes in your potential and will fund your entire American education journey!",
     url: "https://vt.tiktok.com/ZSAt7xwKW/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.24 PM (5).jpeg",
     emoji: "🎓"
@@ -131,7 +131,7 @@ title: "This university will give you a scholarship to study in the Usa if you d
 
 {
 title: "This U.S university is FREE if your parents make under 100k$",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Income-based free education! This US university offers completely free tuition for families earning under $100k - financial barriers eliminated!",
     url: "https://vt.tiktok.com/ZSAt7XCbc/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM.jpeg",
     emoji: "🆓"
@@ -139,7 +139,7 @@ title: "This U.S university is FREE if your parents make under 100k$",
 
 {
 title: "Masters in Nursing scholarships for international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Pursue your nursing dreams in America! Specialized scholarships for international students seeking advanced nursing degrees - heal the world!",
     url: "https://vt.tiktok.com/ZSAtvh8Gs/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM (1).jpeg",
     emoji: "🏥"
@@ -147,7 +147,7 @@ title: "Masters in Nursing scholarships for international students",
 
 {
 title: "These 3 universities give Nursing scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Top 3 American universities with dedicated nursing scholarship programs for international students - your healthcare career starts here!",
     url: "https://vt.tiktok.com/ZSAtvJuq6/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM (2).jpeg",
     emoji: "🏥"
@@ -155,7 +155,7 @@ title: "These 3 universities give Nursing scholarships to international students
 
 {
 title: "Funding to study in America as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Complete guide to securing funding for your American education - from scholarships to grants, we cover all financial aid options!",
     url: "https://vt.tiktok.com/ZSAtvk6fN/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM (3).jpeg",
     emoji: "💰"
@@ -163,7 +163,7 @@ title: "Funding to study in America as an international student",
 
 {
 title: "This university gave me a full scholarship as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "My personal success story! How I secured a complete scholarship at this amazing university - learn from my journey to success!",
     url: "https://vt.tiktok.com/ZSAtvMEXS/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.21 PM (1).jpeg",
     emoji: "🎓"
@@ -171,7 +171,7 @@ title: "This university gave me a full scholarship as an international student",
 
 {
 title: "This college gives big scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Massive scholarship opportunities at this generous American college - substantial financial support for your educational journey!",
     url: "https://vt.tiktok.com/ZSAtvph7K/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM (4).jpeg",
     emoji: "🏫"
@@ -179,7 +179,7 @@ title: "This college gives big scholarships to international students",
 
 {
 title: "This is a full scholarship for international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "The complete scholarship package that covers everything - tuition, housing, meals, and more! Your all-inclusive American education awaits!",
     url: "https://vt.tiktok.com/ZSAtv9M7C/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.25 PM (5).jpeg",
     emoji: "🎓"
@@ -187,7 +187,7 @@ title: "This is a full scholarship for international students",
 
 {
 title: "Full scholarship to study in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Achieve your American dream with a complete scholarship package - no financial worries, just focus on your studies and success!",
     url: "https://vt.tiktok.com/ZSAtvpasd/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.21 PM.jpeg",
     emoji: "🇺🇸"
@@ -195,7 +195,7 @@ title: "Full scholarship to study in America",
 
 {
 title: "This university gives scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Prestigious university with generous scholarship programs for international students - world-class education with financial support!",
     url: "https://vt.tiktok.com/ZSAtvfkaY/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM.jpeg",
     emoji: "🏛️"
@@ -203,7 +203,7 @@ title: "This university gives scholarships to international students",
 
 {
 title: "This American college gives international students full scholarships",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Outstanding American college offering complete scholarship packages to international students - excellence in education and support!",
     url: "https://vt.tiktok.com/ZSAtvwu6k/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM (1).jpeg",
     emoji: "🏫"
@@ -211,7 +211,7 @@ title: "This American college gives international students full scholarships",
 
 {
 title: "This college gives 80k$ scholarships per year to international students in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Massive $80,000 annual scholarships for international students! This generous college invests heavily in your American education success!",
     url: "https://vt.tiktok.com/ZSAtce9P2/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM (2).jpeg",
     emoji: "💰"
@@ -219,7 +219,7 @@ title: "This college gives 80k$ scholarships per year to international students 
 
 {
 title: "This US college gives scholarships to international students and doesnt require English Proficincy Exams",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "No English test required! This US college offers scholarships to international students without language proficiency barriers - inclusive education!",
     url: "https://vt.tiktok.com/ZSAtcM9oT/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM (3).jpeg",
     emoji: "🇺🇸"
@@ -227,7 +227,7 @@ title: "This US college gives scholarships to international students and doesnt 
 
 {
 title: "This school gives you 100% funding to study in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Complete financial coverage! This school provides 100% funding for your entire American education - from start to graduation!",
     url: "https://vt.tiktok.com/ZSAtcM9oT/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM (4).jpeg",
     emoji: "🎓"
@@ -235,7 +235,7 @@ title: "This school gives you 100% funding to study in America",
 
 {
 title: "This is how you get a scholarship to study in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Proven strategies and insider tips to secure your American scholarship - follow this roadmap to educational success!",
     url: "https://vt.tiktok.com/ZSAtcme6Y/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.26 PM (5).jpeg",
     emoji: "🎯"
@@ -243,7 +243,7 @@ title: "This is how you get a scholarship to study in America",
 
 {
 title: "This American college gives full scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Exceptional American college with comprehensive scholarship programs for international students - your gateway to world-class education!",
     url: "https://vt.tiktok.com/ZSAtcADQW/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.27 PM.jpeg",
     emoji: "🏫"
@@ -251,7 +251,7 @@ title: "This American college gives full scholarships to international students"
 
 {
 title: "This university offers full scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Top-tier university with outstanding scholarship opportunities for international students - academic excellence meets financial support!",
     url: "https://vt.tiktok.com/ZSAtchfDW/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.27 PM (1).jpeg",
     emoji: "🏛️"
@@ -259,7 +259,7 @@ title: "This university offers full scholarships to international students",
 
 {
 title: "Study online for free at an American university",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Learn from home! Access world-class American education completely online and absolutely free - no travel, no costs, just knowledge!",
     url: "https://vt.tiktok.com/ZSAtcXGuN/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.27 PM (2).jpeg",
     emoji: "💻"
@@ -267,7 +267,7 @@ title: "Study online for free at an American university",
 
 {
 title: "If you want to study in America then this university will give you a guaranteed scholarship",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Guaranteed scholarship opportunity! This university promises financial support for your American education - your success is their commitment!",
     url: "https://vt.tiktok.com/ZSAtcGLkV/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.27 PM (3).jpeg",
     emoji: "🎓"
@@ -275,7 +275,7 @@ title: "If you want to study in America then this university will give you a gua
 
 {
 title: "Those 2 universities offer full tuition scholarships to international students",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Two exceptional universities with complete tuition coverage for international students - double your chances of success!",
     url: "https://vt.tiktok.com/ZSAtcs69g/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.19 PM.jpeg",
     emoji: "🏛️"
@@ -283,7 +283,7 @@ title: "Those 2 universities offer full tuition scholarships to international st
 
 {
 title: "Want to study in the USA but worried about money?",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Stop worrying about finances! Discover how to study in the USA without breaking the bank - financial solutions that actually work!",
     url: "https://vt.tiktok.com/ZSAtcscx9/",
     cover: "WhatsApp Image 2025-09-05 at 2.50.51 AM.jpeg",
     emoji: "💰"
@@ -292,7 +292,7 @@ title: "Want to study in the USA but worried about money?",
 
 {
 title: "This U.S university lets anyone get a degree for FREE",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Inclusive education for everyone! This US university offers completely free degrees to all students - no barriers, just opportunity!",
     url: "https://vt.tiktok.com/ZSAtcG6qc/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.27 PM (4).jpeg",
     emoji: "🆓"
@@ -300,7 +300,7 @@ title: "This U.S university lets anyone get a degree for FREE",
 
 {
 title: "This is how you get funding for your masters degree in America as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Master's degree funding made easy! Learn the insider secrets to securing financial support for your advanced studies in America!",
     url: "https://vt.tiktok.com/ZSAtcTtvJ/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM.jpeg",
     emoji: "🎓"
@@ -308,7 +308,7 @@ title: "This is how you get funding for your masters degree in America as an int
 
 {
 title: "This is how you can get free tuition as an international student in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Zero tuition fees achieved! Discover the proven methods to eliminate tuition costs and study in America completely free!",
     url: "https://vt.tiktok.com/ZSAt3RPEh/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM (1).jpeg",
     emoji: "🆓"
@@ -316,7 +316,7 @@ title: "This is how you can get free tuition as an international student in Amer
 
 {
 title: "This is how you can study for free in America",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Complete guide to free American education! Master the art of studying in the USA without spending a single dollar!",
     url: "https://vt.tiktok.com/ZSAt3uCDy/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM (3).jpeg",
     emoji: "🇺🇸"
@@ -324,7 +324,7 @@ title: "This is how you can study for free in America",
 
 {
 title: "I wish i knew this when i started college as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Valuable lessons learned! Essential advice I wish I had known before starting college - save yourself from common mistakes!",
     url: "https://vt.tiktok.com/ZSAt3mfud/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM (2).jpeg",
     emoji: "💡"
@@ -332,7 +332,7 @@ title: "I wish i knew this when i started college as an international student",
 
     {
         title: "This is how you can study in America for free",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Step-by-step blueprint for free American education! Follow this proven system to eliminate all costs and study in the USA!",
         url: "https://vt.tiktok.com/ZSAt39UHg/",
         cover: "Screenshot (61).png",
         emoji: "🎓"
@@ -340,7 +340,7 @@ title: "I wish i knew this when i started college as an international student",
 
 {
 title: "This will save you 50k$+ as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Massive savings revealed! Learn the insider tips that will save you over $50,000 during your American education journey!",
     url: "https://vt.tiktok.com/ZSAt3rdcF/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM (4).jpeg",
     emoji: "💰"
@@ -348,7 +348,7 @@ title: "This will save you 50k$+ as an international student",
 
 {
 title: "If you're thinking of studying in America listen to this...",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Critical advice for aspiring American students! Essential information you must know before making your decision - don't miss this!",
     url: "https://vt.tiktok.com/ZSAt3Hdo2/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.28 PM (5).jpeg",
     emoji: "🎧"
@@ -356,7 +356,7 @@ title: "If you're thinking of studying in America listen to this...",
 
 {
 title: "This is one of the best things you can do as an international student",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Game-changing advice! Discover the most impactful action you can take as an international student to maximize your success!",
     url: "https://vt.tiktok.com/ZSAt3DqVY/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM.jpeg",
     emoji: "⭐"
@@ -364,7 +364,7 @@ title: "This is one of the best things you can do as an international student",
 
 {
 title: "If youre an international student you need to hear this",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Must-listen advice for international students! Critical information that could change your entire educational journey - don't skip this!",
     url: "https://vt.tiktok.com/ZSAt3sMYn/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM (1).jpeg",
     emoji: "🎧"
@@ -372,7 +372,7 @@ title: "If youre an international student you need to hear this",
 
 {
 title: "the truth about visa sponsorship",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Uncover the real facts about visa sponsorship! Honest insights into the visa process that every international student should know!",
     url: "https://vt.tiktok.com/ZSAt3K12C/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM (2).jpeg",
     emoji: "📋"
@@ -380,7 +380,7 @@ title: "the truth about visa sponsorship",
 
 {
 title: "If youre an international student,heres the truth",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Raw honesty for international students! The unfiltered truth about studying in America that no one else will tell you!",
     url: "https://vt.tiktok.com/ZSAt37qN5/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM (3).jpeg",
     emoji: "💡"
@@ -388,7 +388,7 @@ title: "If youre an international student,heres the truth",
 
 {
 title: "Listen to this if youre an international student...",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Essential listening for international students! Valuable insights that could transform your American education experience!",
     url: "https://vt.tiktok.com/ZSAt37qN5/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM (4).jpeg",
     emoji: "🎧"
@@ -396,7 +396,7 @@ title: "Listen to this if youre an international student...",
 
 {
 title: "If youre thinking of studying in America listen to this...",
-    description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+    description: "Must-hear advice for future American students! Critical information that will help you make the right decision about your education!",
     url: "https://vt.tiktok.com/ZSAt3thwh/",
     cover: "WhatsApp Image 2025-09-04 at 6.47.29 PM (5).jpeg",
     emoji: "🎧"
@@ -404,7 +404,7 @@ title: "If youre thinking of studying in America listen to this...",
 
     {
         title: "For international students",
-        description: "If you're thinking of studying in America as an international student but cannot afford it watch this",
+        description: "Dedicated content for international students worldwide! Essential guidance and support for your American education journey!",
         url: "https://vt.tiktok.com/ZSAtT19rd/",
         cover: "WhatsApp Image 2025-09-05 at 2.51.00 AM.jpeg",
         emoji: "🌍"
